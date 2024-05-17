@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Animesh Panda</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh235&label=Profile%20views&color=0e75b6&style=flat" alt="animesh235" /> </p>
 
