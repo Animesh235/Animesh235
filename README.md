@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [animesh235.github.io](animesh235.github.io)
 
-- 📝 I regularly write articles on [https://codeqabyte.blogspot.com/](https://codeqabyte.blogspot.com/)
+- 📝 I regularly write articles on [https://softwaretesterpoint.blogspot.com/](https://softwaretesterpoint.blogspot.com/)
 
 - 💬 Ask me about **selenium and automation script writing**
 
