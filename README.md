@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **java backend Developing role**
 
-- 👨‍💻 All of my projects are available at [animesh235.github.io](animesh235.github.io) and Portfolio is on - https://animeshpanda.netlify.app
+- 👨‍💻 My Online Portfolio is on -> https://animeshpanda.netlify.app
 
 - 📝 I regularly write articles on [https://softwaretesterpoint.blogspot.com/](https://softwaretesterpoint.blogspot.com/)
 
