@@ -19,9 +19,7 @@
 
 - 💬 Ask me about **selenium and automation script writing**
 
-- 📫 How to reach me **Animesh2305@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hZNciWlh7RmC-PMCLSkgqQjzhlSQwWQo/view?usp=sharing](https://drive.google.com/file/d/1hZNciWlh7RmC-PMCLSkgqQjzhlSQwWQo/view?usp=sharing)
+- 📫 How to reach me **animeshpanda2305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
