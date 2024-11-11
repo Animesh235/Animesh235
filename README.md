@@ -8,7 +8,7 @@
 
 
 
-Welcome to my GitHub! I’m a passionate **QA Automation Tester** with over **2 years of experience** in both manual and automated testing. My journey in tech spans various domains, from optimizing testing frameworks to building efficient, robust test cases for high-quality software solutions. animeshpamda
+Welcome to my GitHub! I’m a passionate **QA Automation Tester** with over **2 years of experience** in both manual and automated testing. My journey in tech spans various domains, from optimizing testing frameworks to building efficient, robust test cases for high-quality software solutions.
 
 ---
 
