@@ -8,7 +8,7 @@
 
 
 
-Welcome to my GitHub! I’m a passionate **QA Automation Tester** with over **2 years of experience** in both manual and automated testing. My journey in tech spans various domains, from optimizing testing frameworks to building efficient, robust test cases for high-quality software solutions.
+Welcome to my GitHub! I’m a passionate **QA Automation Tester** with over **2 years of experience** in both manual and automated testing. My journey in tech spans various domains, from optimizing testing frameworks to building efficient, robust test cases for high-quality software solutions. animeshpamda
 
 ---
 
@@ -31,7 +31,7 @@ Welcome to my GitHub! I’m a passionate **QA Automation Tester** with over **2 
 ### 🔍 What I Do
 
 I specialize in designing **hybrid frameworks** that make automation testing more efficient and adaptable. My approach integrates **Cucumber BDD for behavior-driven testing** and **POM for modular test case design**, ensuring clarity, scalability, and reliability. You can find my testing insights and guides on my [YouTube channel](https://www.youtube.com/@QAExplainer) and [blog](https://softwaretesterpoint.blogspot.com/).
-
+For more information visit my [Online Profile](https://animeshpanda.netlify.app/).
 
 ---
 
