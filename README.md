@@ -15,7 +15,7 @@ Welcome to my GitHub! I’m a passionate **QA Automation Tester** with over **2 
 ### 🚀 Skills & Technologies
 
 - **Languages**: Java, JavaScript
-- **Frameworks & Tools**: Selenium, Playwright, Cucumber BDD, POM, Jenkins, Docker  
+- **Frameworks & Tools**: Selenium, Playwright, Cucumber BDD, POM, Jenkins, Docker, Rest Assured
 - **Automation Techniques**: Writing scalable frameworks, regression testing, and API testing with tools like Postman  
 - **Other Tools**: Git, CI/CD Pipelines, Agile & Scrum Processes
   
