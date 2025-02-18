@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="300">
 
-# <span style="color:blue">Animesh Panda</span>
+# 👋 Hello, I'm Animesh Panda!
 
 <h3><img src="https://www.animatedimages.org/data/media/56/animated-computer-image-0176.gif" > QA Automation Tester | Tech Enthusiast | Continuous Learner <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100"></h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif">
